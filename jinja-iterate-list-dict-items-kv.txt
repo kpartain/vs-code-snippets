@@ -1,0 +1,13 @@
+{
+	"jinja-iterate-list-dict-items-kv":{
+		"prefix": "jinja-iterate-list-dict-items-kv",
+		"body": [
+			"{% for dict_item in list_of_dict_items: %}",
+			"\t{% for key, value in dict_item.items() %}",
+			"\t\t<p>{{key}}</p>",
+			"\t\t<p>{{value}}</p>",
+			"\t{% endfor %}",
+			"{% endfor %}"
+		]
+	}
+}

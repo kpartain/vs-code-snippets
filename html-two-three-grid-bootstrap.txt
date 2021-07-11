@@ -1,0 +1,30 @@
+{
+	"html-two-three-grid-bootstrap":{
+		"prefix": "html-two-three-grid-bootstrap",
+		"body": [
+			"<!-- grid system & grid flex: https://getbootstrap.com/docs/4.1/layout/grid/ -->",
+			"<!-- margin/spacing: https://getbootstrap.com/docs/5.0/utilities/spacing/ -->",
+			"<!-- two columns -->",
+			"<div class='row justify-content-around no-gutters mt-5'>",
+			"\t<div class='col-4'>",
+			"\t\t<img src='https://karaspersonalprojectbucket.s3.us-east-2.amazonaws.com/09+french+bulldog.jpg' alt='filler' width='100%'>",
+			"\t</div>",
+			"\t<div class='col-4'>",
+			"\t\t<img src='https://karaspersonalprojectbucket.s3.us-east-2.amazonaws.com/02+maine+coon.jpg' alt='filler' width='100%'>",
+			"\t</div>",
+			"\t</div>",
+			"<!-- three columns -->",
+			"<div class='row justify-content-around no-gutters mt-5'>",
+			"\t<div class='col-3'>",
+			"\t\t<img src='https://karaspersonalprojectbucket.s3.us-east-2.amazonaws.com/puppy.gif' alt='filler' width='100%'>",
+			"\t\t</div>",
+			"\t\t<div class='col-3'>",
+			"\t\t<img src='https://karaspersonalprojectbucket.s3.us-east-2.amazonaws.com/kitten.gif' alt='filler' width='100%'>",
+			"\t</div>",
+			"\t<div class='col-3'>",
+			"\t\t<img src='https://karaspersonalprojectbucket.s3.us-east-2.amazonaws.com/puppy.gif' alt='filler' width='100%'>",
+			"\t</div>",
+			"</div>"
+		]
+	}
+}

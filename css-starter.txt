@@ -1,0 +1,20 @@
+{
+	"css-starter":{
+		"prefix": "css-starter",
+		"body": [
+			":root{",
+			"\t--thisColor:#ffffff;",
+			"}",
+			"* {",
+			"\tborder: 2px solid red;",
+			"\tpadding: 0;",
+			"\tmargin: 0;",
+			"\tbox-sizing: border-box;",
+			"\tfont-family: 'Montserrat', sans-serif;",
+			"}",
+			"body {",
+			"\tbackground-color: var(--thisColor);",
+			"}"
+		]
+	}
+}
